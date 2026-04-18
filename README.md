@@ -1,6 +1,5 @@
-# 🛡️ Kiwi-in-a-Bag Security
+# 🛡️ Danger Noodle Security
 ### Personal Compliance & SecOps Templates
-**By Sean O'Hagan**
 
 Welcome to my personal repository. This site serves as a central hub for the compliance templates, security policies, and technical frameworks I've built. I believe security documentation should be practical, accessible, and ready for modern operations.
 
